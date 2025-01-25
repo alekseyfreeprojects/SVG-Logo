@@ -15,7 +15,7 @@
         </linearGradient>
     </defs>
 
-    <circle r="3" fill="	#087ea4">
+    <circle r="3" fill="#087ea4">
         <animateMotion
                 dur="10s"
                 repeatCount="indefinite"
