@@ -12,7 +12,15 @@
 ## 4-е лого "Vue"
 <img src="./vue-logo.svg" alt="">
 
-## 4-е лого "NodeJs"
+## 5-е лого "NodeJs"
 <img src="./nodejs-logo.svg" alt="">
+
+## 6-е лого "HTML specification"
+<img src="./html-specification-logo.svg" alt="">
+
+## 7-е лого "HTML specification"
+<img src="./ecmascript-specification-logo.svg" alt="">
+
+
 
 

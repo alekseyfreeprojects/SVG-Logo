@@ -48,7 +48,7 @@
         <path fill="url(#f)" d="M197.02 225.934v107.43h91.683v-107.43zm0 0"/>
     </g>
 
-    <circle r="5" fill="#087ea4">
+    <circle r="10" fill="#087ea4">
         <animateMotion
                 dur="50s"
                 repeatCount="indefinite"
